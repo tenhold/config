@@ -5,7 +5,6 @@ zsh/*
 
 vim/*
 !vim/.vimrc
-!vim/.viminfo
 
 tmux/*
 !tmux/.tmux.conf
